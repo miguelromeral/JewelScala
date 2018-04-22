@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry exported="true" kind="con" path="org.scala-ide.sdt.launching.SCALA_CONTAINER"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="C:/Users/miguelangel.garciar/Desktop/Proyecto 3 Jewels en Interfaz/jar_a_incluir/org.scala-lang.modules.scala-swing_1.0.1.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
